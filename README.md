@@ -57,6 +57,9 @@
 ![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&style=flat)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&style=flat)
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?logo=yaml&style=flat)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
 ---
 
