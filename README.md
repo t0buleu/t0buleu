@@ -24,7 +24,7 @@
 
 #### 📌 **postmarketOS + XFCE4 на Samsung Galaxy Tab 2 (GT-P3110)**
 
-- Собрал и установил кастомный образ `postmarketOS` с XFCE4 и `systemd`
+- Собрал и установил кастомный образ `postmarketOS` с XFCE4 и `Open-rc`
 - Настроил кастомный **TWRP**, ADB sideload и SSH-доступ через `nftables`
 - Запускал **Docker и docker-compose** на ARMv7
 
